@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Feifei's Little Ivy Club logo</title>
+  <desc id="desc">Smiling child with a sprouting ivy branch.</desc>
+  <circle cx="80" cy="80" r="76" fill="#fbf4e4" />
+  <circle cx="70" cy="64" r="38" fill="#f8cfa9" />
+  <path
+    d="M38 60c6-20 31-34 52-26 10 4 19 12 22 24-11-5-25-5-36 0-11 5-25 5-38 2z"
+    fill="#5a3b1f"
+  />
+  <path
+    d="M56 44c8-8 22-10 30-3"
+    stroke="#5a3b1f"
+    stroke-width="9"
+    stroke-linecap="round"
+    fill="none"
+  />
+  <circle cx="102" cy="35" r="12" fill="#5a3b1f" />
+  <path
+    d="M50 64c2-4 7-4 9 0"
+    stroke="#5a3b1f"
+    stroke-width="4"
+    stroke-linecap="round"
+    fill="none"
+  />
+  <path
+    d="M74 64c2-4 7-4 9 0"
+    stroke="#5a3b1f"
+    stroke-width="4"
+    stroke-linecap="round"
+    fill="none"
+  />
+  <path
+    d="M60 76c5 6 14 6 19 0"
+    stroke="#5a3b1f"
+    stroke-width="4"
+    stroke-linecap="round"
+    fill="none"
+  />
+  <path
+    d="M93 74c14-6 28 1 34 16"
+    stroke="#2f6f3f"
+    stroke-width="5"
+    stroke-linecap="round"
+    fill="none"
+  />
+  <path
+    d="M120 84c10-9 24-11 30-4-3 12-15 22-29 21z"
+    fill="#3f8050"
+  />
+  <path
+    d="M103 74c9-7 21-7 27 1-3 10-13 18-25 17z"
+    fill="#2f6f3f"
+  />
+  <path
+    d="M105 95c-1-7 3-13 9-16"
+    stroke="#2f6f3f"
+    stroke-width="5"
+    stroke-linecap="round"
+    fill="none"
+  />
+  <path
+    d="M44 90c10 14 31 16 43 5"
+    stroke="#f2b48b"
+    stroke-width="6"
+    stroke-linecap="round"
+    fill="none"
+    opacity="0.45"
+  />
+</svg>
